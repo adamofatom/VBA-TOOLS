@@ -9,8 +9,7 @@ Sub CFGZB()
     Dim title As String
 
     Dim columnNum As Integer
- 
- 
+
     myRange = Application.InputBox(prompt:="请选择标题行：", Type:=8)
 
     myArray = WorksheetFunction.Transpose(myRange)
