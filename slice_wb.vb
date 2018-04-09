@@ -1,4 +1,4 @@
-' 切分工作簿
+' 将一个总数据的sheet分割成多个sheet
 Sub CFGZB()
 
     Dim myRange As Variant
