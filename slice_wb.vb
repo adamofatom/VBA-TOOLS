@@ -17,7 +17,6 @@ Sub CFGZB()
     Set titleRange = Application.InputBox(prompt:="请选择拆分的表头，必须是第一行，且为一个单元格，如：“姓名”", Type:=8)
 
     title = titleRange.Value
-
     columnNum = titleRange.Column
 
     Application.ScreenUpdating = False
