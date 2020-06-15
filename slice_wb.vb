@@ -1,5 +1,11 @@
 ' 将一个总数据的sheet分割成多个sheet
-Sub CFGZB()
+' dim a!      '定义单精度Single型变量a
+'dim a@   '定义Currence型变量a
+'dim a#     '定义双精度Double型变量a
+'dim a$     '定义a为字符串tring
+'dim a%    '定义a为整型变量integer
+'dim a&     '定义a为长整型变量long
+
 
     Dim myRange As Variant
 
