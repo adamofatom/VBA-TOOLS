@@ -6,6 +6,7 @@
 'dim a%    '定义a为整型变量integer
 'dim a&     '定义a为长整型变量long
 
+Sub CFGZB()
 
     Dim myRange As Variant
 
